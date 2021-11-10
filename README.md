@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm Steve
 
-
+<!--
 **Steven-Dawson18/Steven-Dawson18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Project 4 of the Code Institute Fullstack Developer Course
@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="SteveDawson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SteveDawson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SteveDawson | LinkedIn" width="22px" src="www.linkedin.com/in/steve-dawson-fullstack" />][linkedin]
 
