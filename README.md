@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Project 4 of the Code Institute Fullstack Developer Course
 - 🌱 I’m currently learning Django
 - 🥅 I’m looking to collaborate on Django Projects
-- ⚡ Fun fact: I love taking my dog Dexter for a walk to the beach coffe shop on my OneWheel!
+- ⚡ Fun fact: I love taking my dog Dexter for a walk to the beach coffee shop on my OneWheel!
 
 ### Connect with me:
 
