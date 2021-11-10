@@ -1,9 +1,9 @@
 ### Hi 👋 I'm Steve
 
+## Full Stack Developer Student and former Teacher of Maths and PE
 <!--
 **Steven-Dawson18/Steven-Dawson18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Project 4 of the Code Institute Fullstack Developer Course
 - 🌱 I’m currently learning Django
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="SteveDawson | LinkedIn" width="22px" src="www.linkedin.com/in/steve-dawson-fullstack" />][linkedin]
-
+<a href="https://linkedin.com/in/steve-dawson-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daisy-mcgirr" height="30" width="40" /></a>
