@@ -5,9 +5,9 @@
 **Steven-Dawson18/Steven-Dawson18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Project 5 of the Code Institute Fullstack Developer Course
-- 🌱 I’m currently learning Django
-- 🥅 I’m looking to collaborate on Django Projects
+- 🔭 I have completed a Diploma with Code Institute in Software Development Full Stack (E-commerce Applications)
+- 🌱 I’m currently learning React
+- 🥅 I’m looking to collaborate on Python Projects
 - ⚡ Fun fact: I love taking my dog Dexter for a walk to the beach coffee shop on my OneWheel!
 
 ### Connect with me:
