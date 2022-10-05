@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Steve
 
-## Full Stack Developer Student and former Teacher of Maths and PE
+## Full Stack Developer at Perch Group and former Teacher of Maths and PE
 <!--
 **Steven-Dawson18/Steven-Dawson18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
